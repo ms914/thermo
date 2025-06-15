@@ -1,4 +1,4 @@
 # Laws of Thermodynamics
 
 ## 1. Hauptsatz
-$ Q = U+W $ 
+$Q = U+W$ 
