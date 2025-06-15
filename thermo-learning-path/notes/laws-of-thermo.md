@@ -1,11 +1,5 @@
 # Laws of Thermodynamics
 
-## 1. Hauptsatz
-$Q = U+W$ 
-
-Absolutely. Here's the **revised barebones thermodynamics summary**, now featuring the **specific form of the ideal gas law** and your preferred form of the **First Law**:
-
----
 
 ## 🧊 **Thermodynamics — The Barebones Version (Refined)**
 
