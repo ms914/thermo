@@ -3,7 +3,7 @@
 geschlossen: $\Delta U = Q - W$
 
 offen:
-$\boxed{\dot {Q} - \dot {W}= \dot {m} ((h_2 - h_1) +\frac{{w_2}^2-{w_1}^2}{2}+g(z_2-z_1))}$
+$\boxed{\dot {Q} - \dot {W}= \dot {m} ((h_2 - h_1) +\frac{{w_2}^2-{w_1}^2}{2}+g(z_2-z_1)) }$
 
 Wirkungsgrad: $COP = Q/W$ $\eta=W/Q$
 
