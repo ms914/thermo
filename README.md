@@ -30,5 +30,5 @@ $-\dot {W}= \dot {m} ((h_2 - h_1)$
 **Vergleichsprozesse**
 
 -   Carnot (theoretisch)
--   Rankine, Joule/Brayton, Clausius-Rankine (technisch)
+-   Rankine, Joule/Brayton, [Clausius-Rankine](https://de.wikipedia.org/wiki/Clausius-Rankine-Kreisprozess) (technisch)
 
