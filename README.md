@@ -13,7 +13,7 @@ kinetische und potentielle Energie kann man meistens weglassen
 adiabatisch: $\dot{Q}=0$ es bleibt
 $-\dot {W}= \dot {m} ((h_2 - h_1)$
 
-Diagramme:
+**Diagramme**
 
 -   erkenne wenn keine Änderung erfolgt: isen\_
 -   erkenne wenn Verluste auftreten
@@ -27,7 +27,7 @@ Diagramme:
 3.  h-s: Möller
 4.  h-p: Wirkungsgrad
 
-Vergleichsprozesse:
+**Vergleichsprozesse**
 
 -   Carnot (theoretisch)
 -   Rankine, Joule/Brayton, Clausius-Rankine (technisch)
